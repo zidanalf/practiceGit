@@ -1,2 +1,3 @@
 NO.REG : 1820010219
 Nama : Zidane Al Farabi
+Jurusan : TI Reguler
